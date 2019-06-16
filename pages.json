@@ -1,0 +1,50 @@
+{
+	"pages": [
+	    {
+            "path" : "pages/home/home",
+            "style" : {
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/chooseNum/chooseNum",
+            "style" : {
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/history/history",
+            "style" : {
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+        },
+		{
+		    "path" : "pages/result/result",
+		    "style" : {
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+		}
+        ,{
+            "path" : "pages/order/order",
+            "style" : {
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": " ",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
